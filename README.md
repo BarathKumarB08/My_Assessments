@@ -62,8 +62,9 @@ Ticket Booked successfully.
 	  Section: A,  Seat Number: 5,  
 	  User Name: firstName1 lastName1,  Email Id: user1@gmail.com ]  
 
-**Testing Screenshots:**
-![Booking a Ticket](./src/main/resources/static/images/API1_01.JPG)
+**Testing Screenshots:**  
+Booking a Ticket  
+![Booking a Ticket](./src/main/resources/static/images/API1_01.JPG)  
 
 
 ### API 2: 
@@ -101,9 +102,11 @@ Ticket Booked successfully.
 	  Section: B,  Seat Number: 2,  
 	  User Name: firstName1 lastName1,  Email Id: user1@gmail.com ]  
 
-**Testing Screenshots:**
-![Search for Valid user (email id)](./src/main/resources/static/images/API2_01.JPG)
-![Search for Invalid user (email id)](./src/main/resources/static/images/API2_02.JPG)
+**Testing Screenshots:**  
+Search for Valid user (email id)  
+![Search for Valid user (email id)](./src/main/resources/static/images/API2_01.JPG)  
+Search for Invalid user (email id)  
+![Search for Invalid user (email id)](./src/main/resources/static/images/API2_02.JPG)  
 
 
 ### API 3:  
@@ -123,9 +126,11 @@ Ticket Booked successfully.
 		"User = { Name = firstName2 lastName2, emailId= user2@gmail.com }, Ticket = {section = A, seatNumber = 9 }"  
 	] 
 
-**Testing Screenshots:**
-![Listing for Section A](./src/main/resources/static/images/API3_01.JPG)
-![Listing for Section B](./src/main/resources/static/images/API3_02.JPG)
+**Testing Screenshots:**  
+Listing for Section A  
+![Listing for Section A](./src/main/resources/static/images/API3_01.JPG)  
+Listing for Section B  
+![Listing for Section B](./src/main/resources/static/images/API3_02.JPG)  
 
 
 
@@ -144,9 +149,11 @@ Ticket Booked successfully.
 					( or )  
 	User for the given email id deleted  
 
-**Testing Screenshots:**
-![Delete a Valid User](./src/main/resources/static/images/API4_01.JPG)
-![Trying to delete a Invalid user](./src/main/resources/static/images/API4_02.JPG)
+**Testing Screenshots:**  
+Delete a Valid User  
+![Delete a Valid User](./src/main/resources/static/images/API4_01.JPG)  
+Trying to delete a Invalid user  
+![Trying to delete a Invalid user](./src/main/resources/static/images/API4_02.JPG)  
 
 
 ### API 5:  
@@ -171,7 +178,10 @@ Ticket Booked successfully.
 		"seatNumber": 1					// New seat number  
 	}  
 
-**Testing Screenshots:**
-![Update seat which is already booked](./src/main/resources/static/images/API5_01.JPG)
-![Update with Invalid Ticket Id](./src/main/resources/static/images/API5_02.JPG)
-![Update with Valid data](./src/main/resources/static/images/API5_03.JPG)
+**Testing Screenshots:**  
+Update seat which is already booked  
+![Update seat which is already booked](./src/main/resources/static/images/API5_01.JPG)  
+Update with Invalid Ticket Id  
+![Update with Invalid Ticket Id](./src/main/resources/static/images/API5_02.JPG)  
+Update with Valid data  
+![Update with Valid data](./src/main/resources/static/images/API5_03.JPG)  
